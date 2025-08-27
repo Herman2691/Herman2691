@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Herman2691
+- 👋 Hi, I’m Herman Kandolo
 - 👀 I’m interested in Deep learning and Machine learnig
 - 🌱 I’m currently learning IA
 - 💞️ I’m looking to collaborate on IA
