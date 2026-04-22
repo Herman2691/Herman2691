@@ -112,7 +112,7 @@ Mes travaux se concentrent sur la conception d'architectures de **Deep Learning 
 
 ## 🌍 Langues
 
-🇫🇷 Français (natif) · 🇬🇧 Anglais (professionnel) · 🇻🇳 Vietnamien (notions)
+🇫🇷 Français (natif) · 🇬🇧 Anglais (Technique) · 🇻🇳 Vietnamien (notions)
 
 ---
 
