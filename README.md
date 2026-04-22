@@ -15,7 +15,7 @@
 
 ## 👨‍💻 À propos
 
-Je suis étudiant-chercheur en **Master 2 Sciences Informatiques et Mathématiques (SIM)** en double diplôme entre l'**Institut de la Francophonie pour l'Informatique (IFI) à Hanoï** et l'**Université de La Rochelle**.
+Je suis étudiant-chercheur en **Master 2 en Système Intelligents & Multimédia (SIM)** en double diplôme entre l'**Institut de la Francophonie pour l'Informatique (IFI) à Hanoï** et l'**Université de La Rochelle**.
 
 Mes travaux se concentrent sur la conception d'architectures de **Deep Learning performantes et explicables**, avec des applications concrètes en vision par ordinateur, traitement du langage naturel et systèmes RAG (Retrieval-Augmented Generation).
 
