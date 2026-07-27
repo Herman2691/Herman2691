@@ -15,7 +15,7 @@
 
 ## 👨‍💻 À propos
 
-Je suis étudiant-chercheur en **Master 2 en Système Intelligents & Multimédia (SIM)** en double diplôme entre l'**International school (université national de vietnam à Hanoï**) et l'**Université de La Rochelle**.
+Je suis étudiant-chercheur en **Master 2 en Systèmes Intelligents & Multimédia (SIM)**, en double diplôme entre l'**International School — Université Nationale du Vietnam à Hanoï** et l'**Université de La Rochelle**.
 
 Mes travaux se concentrent sur la conception d'architectures de **Deep Learning performantes et explicables**, avec des applications concrètes en vision par ordinateur, traitement du langage naturel et systèmes RAG (Retrieval-Augmented Generation).
 
@@ -59,7 +59,7 @@ Mes travaux se concentrent sur la conception d'architectures de **Deep Learning 
 ### 🦍 Détection hybride de gorilles de montagne
 > **YOLOv11n + Module de Validation Heuristique (MVH)** — Détection en temps réel avec interface Gradio  
 > `Computer Vision` `YOLO` `Gradio` `Python`  
-> 🔗 [Voir le projet](https://github.com/Herman2691/mountain-gorilla-detection-yolo)
+> 🔗 [Voir le projet](https://github.com/Herman2691/gorille-montagne-detection-hybride)
 
 ---
 
