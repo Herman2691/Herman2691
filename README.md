@@ -1,9 +1,9 @@
 <div align="center">
-
 # Herman Kandolo
-### Étudiant passionné par la recherche en IA · Vision par ordinateur · Deep Learning
+### Étudiant en Master 2, orienté recherche en IA
+**Vision par ordinateur · Deep Learning · Systèmes Multi-Agents · RAG · GraphRAG**
 
-*Master 2 SIM — Double diplôme IS (Université Nationale du Vietnam à Hanoï) / Université de La Rochelle*
+*Master 2 Systèmes Intelligents et Multimédia (SIM) — Double diplôme International School (IS), Université Nationale du Vietnam à Hanoï / Université de La Rochelle*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/herman-kandolo-209b73364)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hermankandolo2022@gmail.com)
