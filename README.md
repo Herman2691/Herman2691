@@ -1,5 +1,6 @@
 <div align="center">
 # Herman Kandolo
+  
 ### Étudiant en Master 2, orienté recherche en IA
 **Vision par ordinateur · Deep Learning · Systèmes Multi-Agents · RAG · GraphRAG**
 
